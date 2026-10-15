@@ -1,0 +1,17 @@
+C:\Users\User\source\repos\profile\profile\bin\Debug\net8.0-windows\profile.exe
+C:\Users\User\source\repos\profile\profile\bin\Debug\net8.0-windows\profile.deps.json
+C:\Users\User\source\repos\profile\profile\bin\Debug\net8.0-windows\profile.runtimeconfig.json
+C:\Users\User\source\repos\profile\profile\bin\Debug\net8.0-windows\profile.dll
+C:\Users\User\source\repos\profile\profile\bin\Debug\net8.0-windows\profile.pdb
+C:\Users\User\source\repos\profile\profile\obj\Debug\net8.0-windows\profile.Form1.resources
+C:\Users\User\source\repos\profile\profile\obj\Debug\net8.0-windows\profile.csproj.GenerateResource.cache
+C:\Users\User\source\repos\profile\profile\obj\Debug\net8.0-windows\profile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\profile\profile\obj\Debug\net8.0-windows\profile.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\profile\profile\obj\Debug\net8.0-windows\profile.AssemblyInfo.cs
+C:\Users\User\source\repos\profile\profile\obj\Debug\net8.0-windows\profile.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\profile\profile\obj\Debug\net8.0-windows\profile.dll
+C:\Users\User\source\repos\profile\profile\obj\Debug\net8.0-windows\refint\profile.dll
+C:\Users\User\source\repos\profile\profile\obj\Debug\net8.0-windows\profile.pdb
+C:\Users\User\source\repos\profile\profile\obj\Debug\net8.0-windows\profile.genruntimeconfig.cache
+C:\Users\User\source\repos\profile\profile\obj\Debug\net8.0-windows\ref\profile.dll
+C:\Users\User\source\repos\profile\profile\obj\Debug\net8.0-windows\profile.Properties.Resources.resources
